@@ -148,11 +148,3 @@ a {
 .fa-eye,.fa-eye-slash {
   cursor: pointer;
 }
-
-.show {
-  display: flex;
-}
-
-.hide {
-  display: none;
-}
